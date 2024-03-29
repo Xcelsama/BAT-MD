@@ -6,7 +6,7 @@
   
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-[![BAT-MD](https://ibb.co/8McCxs2)](https://github.com/Xcelsama/BAT-MD/fork)
+[![BAT-MD](https://ibb.co/bWG5vwV)](https://github.com/Xcelsama/BAT-MD/fork)
 <h1 align="center"> 🦇BAT-MD🦇
 </p>
 
