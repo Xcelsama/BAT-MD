@@ -7,12 +7,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
- [![](https://ibb.co/WPrHCY7)](https://github.com/Xcelsama/BAT-MD)
-
-
-
-[![STAR-MD-V2](https://ibb.co/B2MyYT7)](https://wa.me/2347045035241)
-</p>
+ 
 
 
 
