@@ -65,7 +65,7 @@ Secktor.cmd({
 │ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 │ │ Time:- ${time}
 │ │ Date:- ${date} 
-| | Channel
+| | Channel:-https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
 │ ╰───────✧❁✧───────»
 ╰───────────────⊷\n
 ` + ''
@@ -82,7 +82,7 @@ Secktor.cmd({
                     str += `┃  ╰─────────────◆`
                 }
 
-                str += `\n╰━━━━━━━━━━━──⊷\nsᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo`
+                str += `\n╰━━━━━━━━━━━──⊷\n𝚃𝚎𝚌𝚑-𝚇 \n https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`
 
                 let buttonMessaged = {
                     image: { url: await botpic() },
@@ -100,23 +100,23 @@ Secktor.cmd({
             pattern: "list",
             desc: "list menu",
             category: "general",
-            react: "🥀"
+            react: "📃"
         },
         async(Void, citel) => {
             const { commands } = require('../lib');
             let str = `
 ╭━━〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙━━──⊷`
             str += '' + `
-┃ ⛥╭──────────────      
-┃ ⛥│ User: ${citel.pushName}
-┃ ⛥│ Theme: ${tlang().title}
-┃ ⛥│ Prefix: ${prefix}
-┃ ⛥│ Owner: ${Config.ownername}
-┃ ⛥│ Commands: ${commands.length}
-┃ ⛥│ Uptime: ${runtime(process.uptime())}
-┃ ⛥│ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃ ⛥│ Ytube : youtube.com/c/SuhailTechInfo
-┃ ⛥╰───────────
+┃ ❏╭──────────────      
+┃ ❏│ User: ${citel.pushName}
+┃ ❏│ Theme: ${tlang().title}
+┃ ❏│ Prefix: ${prefix}
+┃ ❏│ Owner: ${Config.ownername}
+┃ ❏│ Commands: ${commands.length}
+┃ ❏│ Uptime: ${runtime(process.uptime())}
+┃ ❒│ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃ ❒│𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
+┃ ❑╰───────────
 ╰━━━━━━━━━━━──⊷\n` + ''
             str += `╭━━━━━━━━━━━────⊷\n`
             str += `┃ ⛥ ╭─────────────\n`
@@ -124,8 +124,8 @@ Secktor.cmd({
              if(commands[i].pattern==undefined) continue
                 str += `┃ ⛥ │ ➛ ${i+1}. ` + commands[i].pattern + '\n'
             }
-            str += `┃ ⛥ ╰─────────────\n`
-            str += `╰━━━━━━━━━━━───⊷\nsᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo`
+            str += `┃ ❑ ╰─────────────\n`
+            str += `╰━━━━━━━━━━━───⊷\nƿՆ૯คઽ૯ Բ૦ՆՆ૦᭙ ᡶꫀᨶꫝ᥊/n: https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`
             return Void.sendMessage(citel.chat, { image: { url: THUMB_IMAGE }, caption: str ,footer: tlang().footer, headerType: 4 })
         }
     )
@@ -134,7 +134,7 @@ Secktor.cmd({
         pattern: "owner",
         desc: "To check ping",
         category: "general",
-        react: "💜",
+        react: "⌚",
         filename: __filename
     },
     async(Void, citel) => {
@@ -171,7 +171,7 @@ Secktor.cmd({
     pattern: "file",
     desc: "to get extact name where that command is in repo.\nSo user can edit that.",
     category: "general",
-    react: "✨",
+    react: "👁‍🗨",
     filename: __filename
 },
 async(Void, citel, text) => {
@@ -180,8 +180,8 @@ async(Void, citel, text) => {
         const cmd = commands.find((cmd) => cmd.pattern === (text.split(" ")[0].toLowerCase()))
         if (!cmd) return await citel.reply("*❌No Such commands.*");
         else arr.push(`*🍁Command:* ${cmd.pattern}`);
-        if (cmd.category) arr.push(`*🧩Type:* ${cmd.category}`);
-        if(cmd.filename) arr.push(`✨FileName: ${cmd.filename}`)
+        if (cmd.category) arr.push(`*📃Type:* ${cmd.category}`);
+        if(cmd.filename) arr.push(`ℹ️FileName: ${cmd.filename}`)
         return await citel.reply(arr.join('\n'));
 
 
