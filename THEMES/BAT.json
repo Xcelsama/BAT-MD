@@ -1,0 +1,63 @@
+{
+    "_JSON_": true,
+    "AUTHOR": "Xcelsama",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+    "updater": {
+    "UPDATE": "YOᑌᖇ ᗷᗩT-ᗷOT IՏ ᑌᑭ TO ᗪᗩTᗴ",
+    "NEW_UPDATE": "Tᕼᗴᖇᗴ IՏ ᗩ ᑎᗴᗯ ᑌᑭᗪᗩTᗴ ᘜO ՏYᑎᑕ ᖇᗴᑭO ᗩᑎᗪ ᖇᗴᗪᗴᑭᒪOY!\n\n*Changes:*\n",
+    "UPDATED_LOCAL": "Fresh Updates Installed!"
+    },
+    "global": {
+    "botName": " ᑭOᗯᗴᖇᗴᗪ ᗷY ᗷᗩTᗰᗩᑎ",
+    
+    "body": "ᕼᗴY ᑕITIᘔᗴᑎ",
+    "greet2" : "ᕼᗴY",
+    "pic1": "https://wallpapercave.com/dwp1x/wp9172946.jpg",
+    "pic2": "https://wallpapercave.com/dwp1x/wp9173073.jpg",
+    "pic3": "https://wallpapercave.com/dwp1x/wp9172847.jpg",
+    "pic4": "https://wallpapercave.com/dwp1x/wp10557889.jpg",
+    "pic5": "https://wallpapercave.com/dwp1x/wp9064806.jpg",
+    "pic6": "https://wallpapercave.com/dwp1x/wp6523299.jpg",
+    "pic7": "https://i.pinimg.com/236x/6e/88/0b/6e880bb9a1aa39af9902826e2f156e29.jpg",
+    "gif1": "https://tenor.com/bMLiP.gif",
+    "gif2": "https://tenor.com/bf0W3.gif",
+    "gif3": "https://tenor.com/SH2r.gif",
+    "gif4": "https://tenor.com/bhOLh.gif",
+    "gif5": "https://tenor.com/bSOTj.gif",
+    "gif6": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+    "gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+    "greet" : "ᕼᗴY,Tᕼᗴᖇᗴ",
+    "dotbody" : "YOᑌ ᑕᗩᑎ'T ՏTOᑭ ᗰᗴ I'ᗰ ᗷᗩTᗰᗩᑎ.",
+    "promote": "ᗩ ᑎᗴᗯ ᖇOᗷIᑎ ᕼᗴᖇᗴ TO ᗩՏՏIՏT ᗰᗴ",
+    "pmallow": "ᕼI  TᕼIՏ IՏ ᖇOᗷIᑎ\n*ᖴᗩTᕼᗴᖇ IՏ OᑌT Oᑎ ᑭᗩTᖇOᒪ.*\n  ᕼᗴ IՏ ᗷᑌՏY ᖇIᘜᕼT ᑎOᗯ.\n ᒪᗴᗩᐯᗴ YOᑌᖇ ᗰᗴՏՏᗩᘜᗴ.\n\n_I ᗯIᒪᒪ IᑎᖴOᖇᗰ ᕼIᗰ ᗩᗷOᑌT YOᑌᖇ ᗰᗴՏՏᗩᘜᗴ......_",
+    "pmblock": "❌ Blocked*\n\n YOᑌ'ᐯᗴ ᗷᗴᗴᑎ ᗷᒪOᑕKᗴᗪ ᖴOᖇ ՏᑭᗩᗰᗰIᑎᘜ.\n\n _ ᑭOᗯᗴᖇᗴᗪ ᗷY ᗷᗩTᗰᗩᑎ_",
+    "pmwarn": "🦇ᕼI* \n ᗪOᑎ'T Տᑭᗩᗰ ᕼᗴᖇᗴ ᒪᗴՏՏ I'ᒪᒪ ᗷᒪOᑕK YOᑌ You have ${checkPermit.times} warning(s).\n\n * ᑭOᗯᗴᖇᗴᗪ ᗷY ᗷᗩTᗰᗩᑎ*",
+    "permited": "Hii ${tname} Sir*\n\ᑎOᗯ YOᑌᖇ ᗩᖇᗴ ᑭᗴᖇᗰITTᗴᗪ ᗷY ᗷᗩTᗰᗩᑎ TO ᑭᗰ ᑎOᗯ .\n\n ᑭOᗯᗴᖇᗴᗪ ᗷY ᗷᗩTᗰᗩᑎ",
+    "revoked" : "Hii ${tname} ՏIᖇ\n\nYOᑌᖇ ᑭᗰ ᑭᗴᖇᗰIT ᕼᗩՏ ᗷᗴᗴᑎ ᖇᗴᐯOKᗴᗪ.\n\n ᑭOᗯᗴᖇᗴᗪ ᗷY  ᗷᗩTᗰᗩᑎ",
+    "demote": "YOᑌ ᗩᖇᗴ ᑎOT ᗯOᖇTᕼY ᒪIKᗴ I IᗰᗩᘜIᑎᗴᗪ",
+    "antlink": "ᒪIᑎK ᗪᗴTᗴᑕTᗴᗪ 🔍.\n*YOᑌᖇ ᗯᗴᖇᗴ YOᑌ ᗷᗴᒪOᑎᘜ at ᗩᖇKᕼᗩᗰ ᗩՏYᒪᑌᗰ",
+    "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮*",
+    "mention": " Please mention any user Onii-Chan",
+    "title": "ᗷᗩTᗰᗩᑎ",
+    "footer": "ᗷᖇᑌᑕᗴ",
+    "by": "Made by: CitelVoid",
+    "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+    "success": "🦇ՏᑌᑕᗴՏՏ ✓",
+    "dot": ᕼᗴᒪᒪOO, ᗯᕼY ᗪOᑎ'T YOᑌ TᖇY *ᕼᗴᒪᑭ",
+    "couple_male": "ᗷᗩTՏY",
+    "couple_female": "ᗷᗩTՏY",
+    "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+    "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
+    "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+    "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+    "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+    "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+    "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+    },
+    "error": {
+    "text": "❎Task Failed"
+    }
+    }
+    }
