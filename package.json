@@ -5,8 +5,8 @@
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
-      "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-      "stop": "pm2 stop SIGMA-MD"
+      "start": "pm2 start lib/client.js --deep-monitoring --attach --name BAT-MD",
+      "stop": "pm2 stop BAT-MD"
   },
   "author": "Xcelsama",
   "license": "GPL-3.0",
