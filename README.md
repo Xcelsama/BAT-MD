@@ -20,7 +20,8 @@
 
 ❏GET SESSION ID 
 (SCAN-QR)           
- 
+ <a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+
 <a href="https://bat-bot-qr-34b45414eefe.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
