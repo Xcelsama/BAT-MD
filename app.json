@@ -1,7 +1,7 @@
 {
   "name": "BAT-MD By Xcelsama",
   "description": "A Whatsapp md bot built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+2347045035241",
-  "logo": "",
+  "logo": "https://i.ibb.co/TRjdhyd/tumblr-na294unfma1rdzgejo1-500.gif",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
@@ -17,7 +17,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": ""
+     "value": "https://i.ibb.co/TRjdhyd/tumblr-na294unfma1rdzgejo1-500.gif"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -75,7 +75,7 @@
      "value": "mongodb+srv://Suhail:suhail@cluster0.rzhkoqf.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Don't edit only 1 theme..",
      "value": "BAT"
   },
     "WORKTYPE": {
