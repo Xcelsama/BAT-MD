@@ -71,7 +71,7 @@ cmd({
                 `https://api.openweathermap.org/data/2.5/weather?q=${text}&units=metric&appid=060a6bcfa19809c2cd4d97a212b19273&language=en`
             );
             let textw = "";
-            textw += `*🌟Weather of  ${text}*\n\n`;
+            textw += `* 🦇 𝙱𝙰𝚃-𝙱𝙾𝚃 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 🌍☀⛅☁💧⚡❄𝚛𝚎𝚜𝚞𝚕𝚝 𝚘𝚏 ${text}*\n\n`;
             textw += `*Weather:-* ${wdata.data.weather[0].main}\n`;
             textw += `*Description:-* ${wdata.data.weather[0].description}\n`;
             textw += `*Avg Temp:-* ${wdata.data.main.temp}\n`;
@@ -144,9 +144,9 @@ cmd({
             google({ 'query': text }).then(res => {
                 let text = `Google Search From : ${text}\n\n`
                 for (let g of res) {
-                    text += `➣ *Title* : ${g.title}\n`
-                    text += `➣ *Description* : ${g.snippet}\n`
-                    text += `➣ *Link* : ${g.link}\n\n────────────────────────\n\n`
+                    text += ` 📍 *Title* : ${g.title}\n`
+                    text += `📜 *Description* : ${g.snippet}\n`
+                    text += ` 🔗 *Link* : ${g.link}\n\n────────────────────────\n\n`
                 }
                 citel.reply(text)
             })
@@ -178,7 +178,7 @@ cmd({
                         image: {
                             url: images,
                         },
-                        caption: `  sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo `,
+                        caption: `   ᴛᴇᴄʜ-x \n https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`,
                         headerType: 4,
                     };
                     Void.sendMessage(citel.chat, buttonMessage, {
@@ -213,8 +213,8 @@ cmd({
     },
     async(Void, citel, text) => {
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return citel.reply('*You did not add x*\nExample: iswa 9196285162xx \n\nSupprt : sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo')
-        citel.reply(`*Searching for WhatsApp account in given range...* \n *Support PLease :*  \n www.youtube.com/c/SuhailTechInfo`)
+        if (!inputnumber.includes('x')) return citel.reply('*You did not add x*\nExample: iswa 23470450352xx \n\nSupprt : ᴛᴇᴄʜ-x\n https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m')
+        citel.reply(`*Searching for WhatsApp account in given range...* \n *Support PLease :*  \n https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`)
 
         function countInstances(string, word) {
             return string.split(word).length - 1;
