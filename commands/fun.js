@@ -16,7 +16,7 @@ const { cmd } = require('../lib')
 cmd({
             pattern: "question",
             desc: "Random Question.",
-            category: "fun🎮",
+            category: "fun",
             filename: __filename,
         },
         async(Void, citel, text) => {
@@ -27,7 +27,7 @@ cmd({
 cmd({
             pattern: "truth",
             desc: "truth and dare(truth game.).",
-            category: "fun🎮",
+            category: "fun",
             filename: __filename,
         },
         async(Void, citel, text) => {
@@ -38,7 +38,7 @@ cmd({
 cmd({
             pattern: "dare",
             desc: "truth and dare(dare game.).",
-            category: "fun🎮",
+            category: "fun",
             filename: __filename,
         },
         async(Void, citel, text) => {
@@ -62,7 +62,7 @@ cmd({
     cmd({
         pattern: "quotes",
         desc: "Sends quotes in chat.",
-        category: "fun🎮",
+        category: "fun",
         filename: __filename,
     },
     async(Void, citel, text) => {
@@ -81,7 +81,7 @@ return citel.reply(replyf)
     cmd({
         pattern: "define",
         desc: "urban dictionary.",
-        category: "fun🎮",
+        category: "fun",
         filename: __filename,
     },
     async(Void, citel, text) => {
