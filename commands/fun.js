@@ -49,7 +49,7 @@ cmd({
 cmd({
         pattern: "fact",
         desc: "Sends fact in chat.",
-        category: "fun🎮",
+        category: "fun",
         filename: __filename,
     },
     async(Void, citel, text) => {
